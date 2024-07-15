@@ -12,7 +12,7 @@ This challenge is designed to:
 
 ## Course Information
 
-- **Instructor:** Sir Hitesh Choudhary
+- **Instructor:** Sir Hitesh Choudhary ([@hiteshchoudhary](https://github.com/hiteshchoudhary))
 - **Platform:** [chaicode.com](https://chaicode.com)
 - **Duration:** 30 days
 
